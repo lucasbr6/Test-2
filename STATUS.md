@@ -1,10 +1,7 @@
 # STATUS (23.11.2026)
 
-**Erledigt:** Modell B + Nische Rätsel gewählt. Plan, Setup, Recht-Liste, Spiel 01 + Listing, PDF- und Wochen-Check-Automatik.
+**Erledigt:** Etsy-Grundlagen (Plan, Setup, Spiel 01, Automatik). Neu: Faceless-Kanal-Vergleich → `01b-faceless-kanal.md`
 
-**Nächster Schritt:** Gewerbe + Konten (`03-setup.md` Teil 1–2), danach Spiel 02 (Kinder-Schatzsuche).
+**Nächster Schritt:** Je nach Wahl Plan anpassen (`02-plan.md`) und erste Video-Skripte schreiben.
 
-**Brauche von dir:**
-1. Spiel 01 lesen (`04-content/pdf/…pdf`) und freigeben
-2. Testspiel mit 2–4 Personen, Feedback: zu leicht / passt / zu schwer
-3. Shopname festlegen (ich mache Vorschläge, wenn du willst)
+**Brauche von dir:** Richtung wählen (A–D), siehe Ende von `01b-faceless-kanal.md` bzw. Chat.
