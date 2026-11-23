@@ -1,0 +1,56 @@
+@page {
+  size: A4;
+  margin: 18mm 18mm 20mm 18mm;
+  @bottom-center { content: counter(page); font-size: 9pt; color: #777; }
+}
+body {
+  font-family: "DejaVu Serif", Georgia, serif;
+  font-size: 12pt;
+  line-height: 1.45;
+  color: #222;
+}
+h1 { font-size: 22pt; border-bottom: 2px solid #222; padding-bottom: 4pt; }
+h2 { font-size: 15pt; }
+.pagebreak { page-break-after: always; }
+.cover { text-align: center; padding-top: 70mm; }
+.cover h1 { font-size: 34pt; border: none; }
+.cover h2 { font-weight: normal; font-style: italic; }
+.letter {
+  border: 1.5px solid #555;
+  padding: 10pt 16pt;
+  margin: 12pt 0;
+  font-style: italic;
+  background: #f6f1e7;
+}
+.cipher {
+  font-family: "DejaVu Sans Mono", monospace;
+  font-size: 18pt;
+  letter-spacing: 3pt;
+  text-align: center;
+  font-style: normal;
+}
+.alphabet {
+  font-family: "DejaVu Sans Mono", monospace;
+  font-size: 13pt;
+  text-align: center;
+  border: 1px dashed #888;
+  padding: 6pt;
+  margin: 14pt 0;
+}
+.fragment {
+  margin-top: 18pt;
+  border: 2px dashed #222;
+  padding: 8pt;
+  text-align: center;
+  font-weight: bold;
+  font-family: "DejaVu Sans", sans-serif;
+}
+table { border-collapse: collapse; margin: 10pt auto; }
+td, th {
+  border: 1px solid #555;
+  padding: 4pt 9pt;
+  text-align: center;
+  font-family: "DejaVu Sans Mono", monospace;
+}
+code { font-family: "DejaVu Sans Mono", monospace; }
+.small { font-size: 8.5pt; color: #666; margin-top: 30pt; }

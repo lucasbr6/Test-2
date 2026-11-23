@@ -1,0 +1,38 @@
+name: PDFs bauen
+
+on:
+  push:
+    paths:
+      - "04-content/produkte/**.md"
+      - "05-automation/pdf/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Schriften installieren
+        run: sudo apt-get update && sudo apt-get install -y fonts-dejavu fonts-noto-color-emoji
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Python-Pakete installieren
+        run: pip install -r 05-automation/pdf/requirements.txt
+
+      - name: Alle Produkte in PDF umwandeln
+        run: python 05-automation/pdf/build_pdf.py 04-content/produkte/*.md
+
+      - name: PDFs ins Repo speichern
+        run: |
+          git config user.name "pdf-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 04-content/pdf
+          git diff --cached --quiet || git commit -m "PDFs automatisch aktualisiert"
+          git push
