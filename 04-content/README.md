@@ -1,31 +1,23 @@
 # 04 – Content
 
-## Ordner
+## Aktiv: Kanal „Dunkle Geschichte & Rätsel“
 
-- `produkte/` – Spieltexte als Markdown
-  (Quelle für die PDFs)
-- `pdf/` – fertige Druck-PDFs (automatisch
-  erzeugt, nicht von Hand bearbeiten)
-- `listings/` – fertige Etsy-Texte pro Produkt
-- `vorlagen/` – Vorlagen für neue Produkte,
-  Listings und Nachrichten
-- `produkt-ideen.md` – Ideen-Pipeline
+- `kanal/konzept.md` – Namen, Stil, Formate,
+  Regeln
+- `kanal/produktion.md` – Video am Handy bauen
+  (Schritt für Schritt)
+- `kanal/INDEX.md` – Übersicht aller Skripte
+  (automatisch)
+- `kanal/skripte/` – fertige Skripte
+- `vorlagen/skript-vorlage.md` – Aufbau eines
+  Skripts
 
-## Ablauf pro Produkt
+**Ablauf:** Ich schreibe Skripte → du setzt
+`status: freigegeben` (oder sagst mir
+Änderungen) → du produzierst → `gepostet`.
 
-1. Ich schreibe das Spiel in `produkte/`.
-2. Du liest es am Handy und gibst frei.
-3. Die GitHub Action baut das PDF
-   (`pdf/`), ca. 2 Min.
-4. Du druckst es einmal und spielst es mit
-   Familie/Freunden (Testspiel).
-5. Du baust 3–5 Vorschaubilder in Canva
-   (Anleitung: `vorlagen/canva-mockups.md`).
-6. Du legst das Listing in der Etsy-App an,
-   Texte kopierst du aus `listings/`.
+## ⏸️ Pausiert: Etsy
 
-## Status
-
-| Nr. | Produkt | Stand |
-|---|---|---|
-| 01 | Das Vermächtnis des Professors | Entwurf, Test fehlt |
+`produkte/`, `pdf/`, `listings/`, `produkt-ideen.md`
+und die Etsy-Vorlagen in `vorlagen/` bleiben für
+später erhalten.
