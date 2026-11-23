@@ -1,101 +1,116 @@
-# 03 – Setup-Checkliste
+# 03 – Setup-Checkliste (Kanal)
 
-Sortiert: **kostenlos zuerst**, dann Pflichtkosten,
-dann optional. Alles am Handy machbar, außer wo
-⚠️ steht.
+Sortiert: **kostenlos zuerst**, dann Pflicht
+mit Kosten, dann optional. ⚠️ = Haken/Hinweis.
 
-Abhaken: Datei bearbeiten, `[ ]` zu `[x]` ändern.
-
----
-
-## Teil 1 – Kostenlos (Tag 1–2)
-
-- [ ] **Eigene E-Mail** nur fürs Business
-  (z. B. Gmail-App). Für alle Konten nutzen.
-- [ ] **Passwort-Manager** (z. B. in Android/iOS
-  eingebaut) + 2-Faktor-Login überall.
-- [ ] **Canva-App** (Free) installieren und mit
-  Business-E-Mail registrieren.
-- [ ] **Separates Girokonto** (kostenlos, online).
-  Für Einzelunternehmen nicht Pflicht, aber
-  Trennung spart Ärger. Bank-AGB zu gewerblicher
-  Nutzung **PRÜFEN**.
-- [ ] **Pinterest Business-Konto** (App) – erst
-  anlegen, Nutzung ab Woche 7.
-- [ ] **Digistore24-Konto** (Vendor) – nur
-  anlegen, Nutzung ab Woche 9.
+Abhaken: Datei bearbeiten, `[ ]` → `[x]`.
 
 ---
 
-## Teil 2 – Pflicht mit Kosten (Woche 1)
+## Teil 1 – Kostenlos (Woche 1)
 
-### Gewerbe anmelden
-- [ ] Online über deine Gemeinde/Stadt oder das
-  BayernPortal (je nach Gemeinde).
-  Gebühr ca. **20–65 €** (PRÜFEN).
-- [ ] Tätigkeit z. B.: „Erstellung und Online-
-  Verkauf digitaler Produkte (Spiele/Vorlagen
-  zum Ausdrucken)“ – Formulierung **PRÜFEN**.
-- [ ] Nötig: Personalausweis mit Online-Funktion
-  + AusweisApp (läuft am Handy) – oder
-  Formular per Mail, je nach Gemeinde.
+### Grundlagen
+- [ ] **Business-E-Mail** (z. B. Gmail-App)
+- [ ] Passwort-Manager + **2-Faktor-Login**
+  überall (Kanäle werden oft gehackt!)
+- [ ] Kanalname festlegen (Vorschläge:
+  `04-content/kanal/konzept.md`).
+  Vorher prüfen: Name frei auf TikTok,
+  YouTube, Instagram? Marke? (PRÜFEN)
 
-### Finanzamt
-- [ ] Nach der Anmeldung: **Fragebogen zur
-  steuerlichen Erfassung** über ELSTER
-  (Frist i. d. R. 1 Monat nach Start – PRÜFEN).
-- [ ] Dort Kleinunternehmerregelung § 19 UStG
-  wählen (PRÜFEN, ob sinnvoll für dich).
-- ⚠️ ELSTER im Handy-Browser geht, ist aber
-  mühsam. Login per Ausweis + AusweisApp.
-  Alternative: einmal am PC eines Bekannten,
-  oder Steuerberater (kostet).
-- [ ] Steuernummer notieren (kommt per Post).
+### TikTok
+- [ ] Neues Konto mit Business-E-Mail.
+  **Persönliches Konto** lassen (kein
+  Business-Konto) – nur damit geht das
+  Creator Rewards Program (PRÜFEN)
+- [ ] Profil: Name, Bild (Logo aus Canva),
+  1 Satz Bio
+- [ ] ⚠️ Die ersten 2–3 Tage normal
+  scrollen und Videos der Nische ansehen
+  (hilft dem Algorithmus, Konto einzuordnen)
 
-### Etsy-Shop
-- [ ] Etsy-Konto + Shop in der **Etsy-Seller-App**
-  eröffnen. Als **gewerblicher** Verkäufer.
-- [ ] Mögliche einmalige Einrichtungsgebühr
-  (PRÜFEN, aktuell bei Etsy angezeigt).
-- [ ] Listing-Gebühr ca. 0,20 $ pro Produkt.
-- [ ] **Impressum** im Shop hinterlegen –
-  mit Anschrift (PRÜFEN, siehe Teil 3).
-- [ ] Bankkonto für Auszahlung hinterlegen.
+### YouTube
+- [ ] YouTube-Kanal mit derselben E-Mail
+  (Google-Konto) in der YouTube-App
+- [ ] Name, Bild, Beschreibung wie TikTok
+- [ ] Kanal **nicht** als „für Kinder“
+  markieren
 
----
-
-## Teil 3 – Optional / später
-
-- [ ] **Impressum-/Adress-Service**, falls du
-  deine Wohnadresse nicht zeigen willst
-  (ca. 5–15 €/Monat, Zulässigkeit PRÜFEN).
-- [ ] **Canva Pro** (ca. 12 €/Monat) – erst wenn
-  Free nicht mehr reicht.
-- [ ] **Make.com** (Free-Tarif) für
-  Automatisierungen ab Woche 9.
+### Werkzeuge
+- [ ] **CapCut** (Schnitt, Untertitel,
+  Text-zu-Sprache). ⚠️ Nutzungsbedingungen
+  für kommerzielle Nutzung PRÜFEN
+- [ ] **Canva** (Titelbilder, Logo)
+- [ ] **Wikimedia Commons** als Lesezeichen
+  (gemeinfreie Bilder)
 
 ---
 
-## Budget (Schätzung, Start)
+## Teil 2 – KI-Stimme
+
+Option A – **kostenlos**: Text-zu-Sprache
+direkt in CapCut. Schnell, aber viele Kanäle
+nutzen dieselben Stimmen.
+
+Option B – **ElevenLabs** (App vorhanden):
+- [ ] Bezahlter Tarif ab ca. 5 $/Monat nötig
+  für kommerzielle Nutzung (PRÜFEN)
+- [ ] **Eine** Stimme wählen und immer
+  behalten = Wiedererkennung
+
+Empfehlung: In Woche 1 beide testen, dann
+entscheiden.
+
+---
+
+## Teil 3 – Pflicht mit Kosten
+
+### Gewerbe & Finanzamt
+- [ ] Gewerbe anmelden (Gemeinde/BayernPortal,
+  ca. 20–65 €). Spätestens bevor Geld fließt –
+  ob schon vorher nötig: PRÜFEN.
+- [ ] Tätigkeit z. B. „Erstellung und
+  Veröffentlichung digitaler Medieninhalte“
+  (Formulierung PRÜFEN)
+- [ ] Fragebogen zur steuerlichen Erfassung
+  (ELSTER), Kleinunternehmerregelung (PRÜFEN)
+- ⚠️ ELSTER am Handy geht, ist mühsam.
+  Login per Ausweis + AusweisApp.
+
+### Impressum
+- [ ] Ein Impressum ist bei geschäftlich
+  genutzten Kanälen wahrscheinlich Pflicht
+  (PRÜFEN). Dann in TikTok-Bio/YouTube-Info
+  verlinken.
+- [ ] Ohne eigene Website: Impressum-Seite
+  über Dienst (ca. 5–15 €/Monat, inkl.
+  Adresse) – Zulässigkeit PRÜFEN.
+
+---
+
+## Teil 4 – Später / optional
+- [ ] Ansteck-Mikrofon nicht nötig (KI-Stimme)
+- [ ] Musik: nur aus den App-Bibliotheken
+  (TikTok/YouTube Audio-Mediathek), Rechte
+  für kommerzielle Konten PRÜFEN
+- [ ] Separates Girokonto (kostenlos), bevor
+  die erste Auszahlung kommt
+
+---
+
+## Budget (Start)
 
 | Posten | ca. |
 |---|---|
 | Gewerbeanmeldung | 20–65 € |
-| 40 Etsy-Listings | 8 € |
-| Etsy-Einrichtung (falls fällig) | 0–30 € |
-| Testdruck Spiele | 5 € |
-| **Summe** | **ca. 35–110 €** |
-
-Rest vom 200-€-Budget: Puffer für Canva Pro
-oder Impressum-Service.
+| KI-Stimme (optional) | 0–5 €/Monat |
+| Impressum-Dienst (falls nötig) | 0–15 €/Monat |
+| **Summe 6 Monate** | **ca. 20–185 €** |
 
 ---
 
-## Weitere Punkte zum Klären (PRÜFEN)
+## Pausiert: Etsy
 
-- Haupt- oder Nebenerwerb? Wichtig für
-  Krankenkasse und ggf. Arbeitgeber.
-- IHK-Mitgliedschaft (Beitrag bei kleinem
-  Gewinn oft befreit).
-- Einfache Buchhaltung (EÜR): Ich baue dir
-  eine Tabelle in `05-automation/`.
+Die Etsy-Schritte (Shop, Listings) ruhen.
+Unterlagen: `archiv/02-plan-etsy.md` und
+`04-content/produkte/`.
