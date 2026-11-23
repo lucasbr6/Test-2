@@ -1,0 +1,29 @@
+name: Skript-Übersicht
+
+on:
+  push:
+    paths:
+      - "04-content/kanal/skripte/**"
+      - "05-automation/kanal/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Übersicht erzeugen
+        run: python 05-automation/kanal/skript_index.py
+      - name: Speichern
+        run: |
+          git config user.name "index-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 04-content/kanal/INDEX.md
+          git diff --cached --quiet || git commit -m "Skript-Übersicht automatisch aktualisiert"
+          git push

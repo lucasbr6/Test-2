@@ -1,116 +1,89 @@
 # 05 – Automatisierung
 
-Übersicht. Jede Automatik hat eine eigene
-Anleitung unten. Alle Schritte gehen am Handy.
+Alle Schritte gehen am Handy.
 
 | Nr. | Was | Wo | Kosten |
 |---|---|---|---|
-| 1 | PDFs automatisch bauen | GitHub Action | 0 € |
+| 1 | Skript-Übersicht mit Dauer-Check | GitHub Action | 0 € |
 | 2 | Wochen-Check jeden Montag | GitHub Action | 0 € |
-| 3 | Einnahmen/Ausgaben-Liste | CSV im Repo | 0 € |
-| 4 | Verkäufe → Tabelle | Make.com | 0 € (Free) |
-| 5 | Pinterest-Pins planen | Pinterest-App | 0 € |
+| 3 | Videos vorausplanen | TikTok/YouTube-App | 0 € |
+| 4 | Einnahmen/Ausgaben-Liste | CSV im Repo | 0 € |
+| – | PDFs bauen (Etsy, pausiert) | GitHub Action | 0 € |
 
 ---
 
-## 1 – PDFs automatisch bauen
+## 1 – Skript-Übersicht
 
-**Was passiert:** Sobald sich eine Datei in
-`04-content/produkte/` ändert, baut GitHub das
-PDF und legt es in `04-content/pdf/` ab.
+**Was passiert:** Sobald sich ein Skript in
+`04-content/kanal/skripte/` ändert, erneuert
+GitHub die Datei `04-content/kanal/INDEX.md`:
+Titel, Status, Wortzahl, geschätzte Dauer.
+Warnt, wenn ein Video unter 1 Min. bliebe
+(dann zahlt TikTok nicht).
 
-**Einrichtung (einmalig, ca. 3 Min.):**
-1. GitHub-App → Repo öffnen → Tab **Actions**.
-   Falls gefragt: Actions aktivieren.
-2. Falls die Action beim Speichern scheitert:
-   Im Handy-Browser github.com → Repo →
-   **Settings → Actions → General →
-   Workflow permissions → Read and write**
-   → Save. (Desktop-Ansicht im Browser
-   aktivieren, falls das Menü fehlt.)
+**Einrichtung:** nichts. Läuft automatisch.
+Falls die Action nicht speichern darf: im
+Handy-Browser github.com → Repo → **Settings →
+Actions → General → Workflow permissions →
+Read and write** (Desktop-Ansicht aktivieren).
+Die PDF-Action hat schon erfolgreich
+gespeichert, also passt das vermutlich.
 
-**PDF holen:** GitHub-App → `04-content/pdf/`
-→ Datei antippen → Teilen/Öffnen → in Dateien
-speichern.
-
-**Manuell starten:** Actions → „PDFs bauen“
-→ „Run workflow“ (ggf. im Browser).
+**Status ändern am Handy:** GitHub-App →
+Skript → Stift-Symbol → `status: entwurf` zu
+`status: freigegeben` ändern → Commit.
 
 ---
 
 ## 2 – Wochen-Check
 
-**Was passiert:** Jeden Montag früh legt GitHub
-ein Issue mit Checkliste an. Du bekommst eine
-Push-Nachricht in der GitHub-App.
+Jeden Montag früh legt GitHub ein Issue mit
+Checkliste an (Videos, Zahlen, Freigaben).
+Push-Nachricht über die GitHub-App.
 
 **Einrichtung:** GitHub-App → Profil →
 Einstellungen → Benachrichtigungen → Push für
-„Issues“ aktivieren. Sonst nichts zu tun.
+Issues an.
 
-Hinweis: Zeitpläne laufen nur auf dem
-**Standard-Branch** des Repos. Das klappt erst,
-wenn die Dateien dort liegen (nach dem Merge).
-
----
-
-## 3 – Einnahmen/Ausgaben (Buchhaltung light)
-
-Dateien: `buchhaltung/einnahmen.csv` und
-`buchhaltung/ausgaben.csv`.
-
-- Einmal pro Woche (Wochen-Check) eintragen.
-- Belege als Foto in einem Cloud-Ordner
-  „Belege“ ablegen (z. B. Google Drive).
-- Am Jahresende baue ich daraus die Zahlen
-  für die EÜR (Steuererklärung – PRÜFEN,
-  ggf. Steuerberater).
-
-Am Handy bearbeiten: GitHub-App → Datei →
-Stift-Symbol → neue Zeile anhängen.
-
-Ab ca. 10 Verkäufen/Monat lohnt sich Nr. 4.
+⚠️ Zeitpläne laufen nur auf dem **Standard-
+Branch**. Startet also erst nach dem Merge
+in den Haupt-Branch.
 
 ---
 
-## 4 – Verkäufe automatisch in Tabelle (Make.com)
+## 3 – Videos vorausplanen (Batch)
 
-**Was passiert:** Jeder Etsy-Verkauf landet
-automatisch als Zeile in einem Google Sheet.
+Ziel ab Woche 8: an einem Tag 4 Videos bauen,
+dann über die Woche verteilt automatisch
+veröffentlichen.
 
-**Einrichtung (ca. 20 Min., Handy-Browser):**
-1. Google-Sheets-App: neue Tabelle „Verkäufe“,
-   Spalten wie in `einnahmen.csv`.
-2. make.com im Browser → kostenloses Konto.
-3. „Create scenario“ → Modul **Etsy →
-   Watch Receipts** (oder ähnlich benannt –
-   PRÜFEN, ob das Etsy-Modul verfügbar ist)
-   → mit Etsy-Konto verbinden.
-4. Zweites Modul: **Google Sheets → Add a row**
-   → Tabelle „Verkäufe“ wählen → Felder
-   zuordnen (Datum, Bestellnummer, Produkt,
-   Betrag).
-5. Zeitplan: alle 24 Stunden (spart Free-
-   Kontingent). Scenario **ON** schalten.
+- **YouTube-App:** Short hochladen →
+  Sichtbarkeit → **Planen** → Datum/Uhrzeit
+- **TikTok-App:** Beim Posten
+  „Mehr Optionen“ → **Planen** (Funktion je
+  nach Konto/Region – PRÜFEN). Falls nicht
+  verfügbar: TikTok Studio im Handy-Browser.
 
-⚠️ Make im Handy-Browser ist fummelig, geht
-aber. Falls das Etsy-Modul fehlt: bei Nr. 3
-bleiben (manuell, 5 Min./Woche).
+Gute Zeiten zum Testen: 18–21 Uhr. Nach
+4 Wochen schaue ich mit dir in die Statistik.
 
 ---
 
-## 5 – Pinterest-Pins planen (ab Woche 7)
+## 4 – Einnahmen/Ausgaben
 
-**Was passiert:** Pins zu deinen Produkten
-gehen über Wochen verteilt online.
+`buchhaltung/einnahmen.csv` und
+`buchhaltung/ausgaben.csv`. Einmal pro Monat
+eintragen (z. B. KI-Stimme-Abo, Auszahlungen).
+Belege als Foto in einen Cloud-Ordner.
 
-1. Pinterest-App → „+“ → Pin erstellen.
-2. Bild: Hochformat 1000 × 1500 px aus Canva.
-3. Link: deine Etsy-Listing-URL.
-4. Titel/Beschreibung: schreibe ich dir je
-   Produkt in `04-content/listings/`.
-5. **Veröffentlichen später** wählen → Datum.
-   (Planung im Voraus begrenzt – PRÜFEN, wie
-   weit aktuell möglich.)
+---
 
-Ziel: 1 Sitzung pro Woche, 5–10 Pins planen.
+## Später (wenn Geld fließt)
+
+- Make.com: Auszahlungs-Mails automatisch in
+  Tabelle (lohnt erst ab regelmäßigen
+  Einnahmen)
+- Automatisches Cross-Posting TikTok → YouTube
+  über Dritt-Tools: bewusst **nicht**. Kostet
+  Geld und lädt oft Videos mit Wasserzeichen
+  hoch, was die Reichweite drückt.

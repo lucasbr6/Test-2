@@ -9,6 +9,58 @@ Status: ⬜ offen · ✅ geklärt
 
 ---
 
+## Kanal (TikTok / YouTube) – AKTIV
+
+### Bild- und Tonrechte
+- ⬜ Wikimedia-Bilder: Lizenz pro Bild prüfen
+  (gemeinfrei/CC0 am einfachsten; CC BY →
+  Namensnennung in der Beschreibung)
+- ⬜ Historische Fotos (z. B. Hinterkaifeck
+  1922): Sind sie wirklich gemeinfrei?
+  (Lichtbildschutz, unbekannte Fotografen)
+- ⬜ Illustrationen: Zeichner mehr als 70
+  Jahre tot? (Ubbelohde, Rackham ✓ laut
+  Recherche)
+- ⬜ Scans gemeinfreier Werke (Yale, Museen):
+  Nutzungsbedingungen der Institution
+- ⬜ Musik nur aus App-Bibliotheken – für
+  kommerzielle Konten erlaubt?
+
+### KI
+- ⬜ KI-Stimme (CapCut/ElevenLabs): Lizenz
+  für kommerzielle Nutzung im gewählten Tarif
+- ⬜ CapCut-Nutzungsbedingungen: Rechte an
+  hochgeladenen Inhalten
+- ⬜ KI-Kennzeichnung auf TikTok/YouTube:
+  wann Pflicht (realistische KI-Bilder)?
+- ⬜ KI-Bilder: Rechte daran, Regeln des Tools
+
+### Inhalte
+- ⬜ Echte Kriminalfälle: postmortales
+  Persönlichkeitsrecht, Angehörige
+  (Hinterkaifeck: über 100 Jahre her)
+- ⬜ Keine lebenden Privatpersonen nennen
+- ⬜ Faktenfehler = Ruf-, nicht Rechtsrisiko,
+  trotzdem jede Quelle prüfen
+- ⬜ Pu der Bär (ab 2027): nur Milne-Text,
+  eigene Übersetzung, eigene Bilder; Marken
+  von Disney auf Namen/Figuren
+
+### Kanal-Pflichten
+- ⬜ Impressum für geschäftsmäßigen Kanal:
+  ab wann Pflicht? Wo verlinken (Bio/Info)?
+- ⬜ Gewerbeanmeldung: ab wann (Start oder
+  erste Einnahme)?
+- ⬜ Auszahlungen TikTok/YouTube (Ausland):
+  Umsatzsteuer-Behandlung, Reverse-Charge,
+  Angaben bei § 19 UStG
+- ⬜ Werbekennzeichnung, falls später
+  Affiliate-Links oder Kooperationen
+
+---
+
+## Etsy (⏸️ pausiert)
+
 ## Gewerbe & Anmeldung
 - ⬜ Gebühr und Online-Weg der Gewerbeanmeldung
   in deiner Gemeinde
