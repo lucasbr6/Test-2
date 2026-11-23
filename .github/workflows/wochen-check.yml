@@ -1,0 +1,33 @@
+name: Wochen-Check
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"   # Montags ca. 7–8 Uhr deutscher Zeit
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  issue:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const d = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Wochen-Check ${d}`,
+              body: [
+                "Abhaken am Handy (ca. 15 Min.):",
+                "",
+                "- [ ] Etsy-App: neue Nachrichten beantwortet (Vorlagen: `04-content/vorlagen/nachrichten.md`)",
+                "- [ ] Etsy-App → Statistik: Aufrufe / Favoriten / Verkäufe hier als Kommentar notiert",
+                "- [ ] Einnahmen in `05-automation/buchhaltung/einnahmen.csv` übertragen (oder Make-Tabelle geprüft)",
+                "- [ ] `STATUS.md` gelesen – gibt es etwas freizugeben?",
+                "",
+                "Wenn alles erledigt ist: Issue schließen."
+              ].join("\n")
+            });
