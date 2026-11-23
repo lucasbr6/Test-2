@@ -1,5 +1,9 @@
 # 01 – Entscheidung: Welches Geschäftsmodell?
 
+> ✅ **Entschieden am 23.11.2026:** Modell **B –
+> Digitale Produkte**, Nische **Rätsel & Krimidinner
+> zum Ausdrucken**. Weiter in `02-plan.md`.
+
 Stand: 23.11.2026. Zahlen sind Erfahrungswerte und
 Plattform-Angaben nach meinem Wissensstand. Gebühren
 und Regeln ändern sich – vor dem Start **PRÜFEN**.
