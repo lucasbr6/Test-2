@@ -1,123 +1,127 @@
-# 02 – 90-Tage-Plan
+# 02 – 90-Tage-Plan: Kanal „Dunkle Geschichte & Rätsel“
 
-Modell: **Digitale Produkte** (Etsy zuerst,
-Digistore24 später). Nische: **Rätsel-Spiele zum
-Ausdrucken** – Escape-Spiele, Schatzsuchen,
-Krimidinner.
+Plattformen: **TikTok + YouTube Shorts**
+(gleiches Video, Hochformat, 65–90 Sek.).
+KI-Stimme, kein Gesicht. Etsy pausiert.
 
-Start: KW 48 / 2026. Zeit: 2–3 Std./Tag.
+Start: KW 48 / 2026 · Zeit: 2–3 Std./Tag
 
 ---
 
-## Was realistisch ist
+## Drei Formate (Säulen)
 
-- Ziel Tag 90: **30–40 Listings** online, erste
-  Statistik, vielleicht erste Verkäufe.
-- **0 Verkäufe nach 90 Tagen sind möglich.**
-  Etsy-Shops brauchen oft 3–6 Monate.
-- Aufwand sinkt erst, wenn genug Produkte
-  online sind (Ziel: ca. Monat 5–6).
+1. **Ungelöst** – historische Rätsel
+   (Kaspar Hauser, Hinterkaifeck, Voynich …)
+2. **Grimm ungeschönt** – die dunklen
+   Originale der Märchen
+3. **Wer war's?** – Krimi-Rätsel zum
+   Mitraten, Auflösung im nächsten Video
+
+Rhythmus: **3–4 Videos/Woche**, Formate im
+Wechsel.
 
 ## Rollen
+- **Ich:** Themen, Recherche, Skripte,
+  Bildliste, Titel, Hashtags, Plan, Auswertung
+- **Du:** Stimme generieren, in CapCut
+  zusammensetzen, posten, Zahlen notieren
 
-- **Ich:** Ideen, Spieltexte, Rätsel, Lösungen,
-  Listing-Texte, Keywords, PDF-Erzeugung per
-  GitHub Action, Auswertung.
-- **Du:** freigeben, Canva-Cover bauen,
-  Listings einstellen, Testspiel, Konten.
+## Realistisch nach 90 Tagen
+- ca. **35–45 Videos** online
+- Follower: von 0 bis wenige Tausend ist
+  alles möglich. Viral = Glück.
+- Geld: **sehr wahrscheinlich noch 0 €.**
+  TikTok braucht 10.000 Follower, YouTube
+  1.000 Abos + 10 Mio. Shorts-Aufrufe.
 
 ---
 
-## Monat 1 – Fundament
+## Monat 1 – Start & Stil
 
 ### Woche 1 (KW 48)
-- Gewerbe anmelden, Konten anlegen
-  (→ `03-setup.md`, Teil 1+2)
-- Produkt 1 lesen und freigeben
-  (`04-content/produkte/01-…`)
+- Konten anlegen (`03-setup.md`)
+- Kanalname wählen
+- Skripte 1–5 lesen und freigeben
+- Testvideo bauen (nicht posten), Stil
+  festlegen: Stimme, Schrift, Musik
 
 ### Woche 2 (KW 49)
-- PDF von Produkt 1 per Action erzeugen
-- Testspiel mit Familie/Freunden (ca. 1 Std.)
-- Etsy-Shop eröffnen, Shop-Texte von mir
+- 5 Videos auf Vorrat produzieren
+- **Start:** erstes Video posten
+- Ab jetzt 3 Videos/Woche
 
 ### Woche 3 (KW 50)
-- Produkt 1 live (Etsy)
-- Produkte 2–3: Kinder-Schatzsuchen
-  (z. B. Piraten, Detektiv)
+- 3 Videos posten, 3 neue produzieren
+- Erste Auswertung: Wie viele schauen
+  länger als 3 Sek.? (Hook-Test)
 
 ### Woche 4 (KW 51/52)
-- Produkte 4–5 live
-- Weihnachten: nur leichte Woche.
-  Für Weihnachten 2026 sind wir zu spät –
-  wir planen saisonal **voraus** (Silvester,
-  Fasching, Ostern).
+- Weihnachten: Videos **vorher** einplanen
+- Sonderreihe **„Ab 1.1. gemeinfrei“**
+  produzieren (Milne/Pu, Brecht, Pollock …)
 
 ---
 
-## Monat 2 – Sortiment
+## Monat 2 – Rhythmus
 
-### Woche 5 (KW 1)
-- Krimidinner 1 (6 Personen) – größeres
-  Produkt, höherer Preis
-- Rückblick: Aufrufe, Favoriten, Klickrate
+### Woche 5 (KW 53/1)
+- 1.1.2027: Sonderreihe geht live
+  (Zeitfenster nur wenige Tage!)
 
 ### Woche 6 (KW 2)
-- Krimidinner 1 live
-- 3 Varianten bestehender Spiele
-  (Altersstufen, Themen)
+- 4 Videos/Woche
+- Auswertung: Welche Säule läuft am besten?
 
 ### Woche 7 (KW 3)
-- Oster-Schatzsuche + Fasching-Spiel
-  (Saison vorbereiten)
-- Pinterest-Konto + erste 10 Pins
+- Mehr von der besten Säule (50 %)
+- Serien testen: „Teil 1/2“ bindet Follower
 
 ### Woche 8 (KW 4)
-- Ziel: **15–20 Listings**
-- Bündel-Angebote (3 Spiele zum Paketpreis)
+- **Batch-Tag** einführen: 4 Videos an
+  einem Tag (ca. 3 Std.), dann planen
+- Ziel: 25 Videos online
 
 ---
 
-## Monat 3 – Reichweite & Automatik
+## Monat 3 – Effizienz
 
 ### Woche 9 (KW 5)
-- Digistore24: Bündel als Produkt anlegen
-- Pinterest-Pins automatisieren
-  (→ `05-automation/`)
+- Vorlage in CapCut fertig → Video in
+  30–45 Min.
+- Videos über die Apps **vorausplanen**
 
 ### Woche 10 (KW 6)
-- Valentinstag-/Pärchen-Escape-Spiel
-- 5 neue Listings
+- Beste Videos als längere YouTube-Fassung
+  (3–5 Min.) testen? Nur wenn Zeit da ist.
 
 ### Woche 11 (KW 7)
-- Daten auswerten: Was wird angeklickt?
-- Titel/Tags/Preise der schwachen Listings
-  überarbeiten
+- Daten: Wiedergabedauer, Kommentare,
+  neue Follower pro Video
+- Schwache Formate streichen
 
 ### Woche 12 (KW 8)
-- Ziel: **30–40 Listings**
-- Vorlagen so fertig, dass ein neues Produkt
-  nur noch ca. 1 Std. deiner Zeit braucht
+- Ziel: 35–45 Videos online
+- Entscheidung Etsy: wieder aktivieren und
+  im Profil verlinken? (Krimi-Rätsel → Shop)
 
-### Woche 13 (KW 9) – Entscheidungspunkt
-- Ehrliche Bilanz: Aufrufe, Verkäufe, Aufwand
-- Optionen: weitermachen / Nische anpassen /
-  zweiten Kanal (z. B. YouTube-Mystery als
-  Reichweite) dazunehmen
+### Woche 13 (KW 9) – Bilanz
+- Ehrlicher Check: Wachstum, Aufwand, Spaß
+- Weiter / Format ändern / aufhören
 
 ---
 
-## Ab Monat 4–6 (Ausblick)
-
-- Pro Woche 1–2 neue Produkte statt 5
-- Saisonplanung 3 Monate im Voraus
-- Ziel ab Monat 6: 2–3 Std./Woche
-  (neue Produkte + Nachrichten + Kontrolle)
+## Ab Monat 4–6
+- 1 Batch-Tag pro Woche (2–3 Std.) =
+  3–4 Videos, alle vorausgeplant
+- Dazu ca. 15 Min. Wochen-Check
 
 ## Was schiefgehen kann
-
-- Etsy findet die Listings nicht (Ranking)
-- Konto-Sperre oder Regeländerung bei Etsy
-- Rätsel zu schwer/zu leicht → schlechte
-  Bewertungen. Darum: **Testspiel ist Pflicht.**
-- Konkurrenz kopiert Ideen
+- Algorithmus zeigt die Videos kaum
+  (häufig in den ersten Wochen)
+- Einstufung als KI-Massenware → keine
+  Monetarisierung (siehe `01c`, Teil 3)
+- Ein Video wird wegen Gewalt-Thema
+  eingeschränkt → Ton sachlich halten,
+  keine Gewaltbilder
+- Kommentare mit Fehlerhinweisen →
+  Recherche-Qualität ist Pflicht

@@ -1,5 +1,9 @@
 # 01c – Nischen für einen Faceless-Kanal
 
+> ✅ **Entschieden am 23.11.2026:** Nische **A –
+> Dunkle Geschichte & Rätsel** (TikTok + Shorts,
+> KI-Stimme). Etsy-Shop **pausiert**.
+
 Stand: 23.11.2026. Rahmen: TikTok + YouTube
 Shorts, **KI-Stimme**, Hochformat 1–2 Min.,
 alles am Handy.

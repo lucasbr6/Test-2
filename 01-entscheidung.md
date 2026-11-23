@@ -2,7 +2,10 @@
 
 > ✅ **Entschieden am 23.11.2026:** Modell **B –
 > Digitale Produkte**, Nische **Rätsel & Krimidinner
-> zum Ausdrucken**. Weiter in `02-plan.md`.
+> zum Ausdrucken**.
+>
+> 🔄 **Geändert am 23.11.2026:** Fokus jetzt auf
+> Faceless-Kanal → `01b`, `01c`. Etsy pausiert.
 
 Stand: 23.11.2026. Zahlen sind Erfahrungswerte und
 Plattform-Angaben nach meinem Wissensstand. Gebühren
